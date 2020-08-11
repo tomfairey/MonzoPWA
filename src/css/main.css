@@ -1,0 +1,60 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: "HK Grotesk";
+    font-weight: 300;
+    src: url("../fonts/HK Grotesk/HKGrotesk-Light.eot");
+    src: url("../fonts/HK Grotesk/HKGrotesk-Light.woff2") format("woff2"),
+    url("../fonts/HK Grotesk/HKGrotesk-Light.woff") format("woff");
+}
+
+@font-face {
+    font-family: "HK Grotesk";
+    font-weight: 400;
+    src: url("../fonts/HK Grotesk/HKGrotesk-Regular.eot");
+    src: url("../fonts/HK Grotesk/HKGrotesk-Regular.woff2") format("woff2"),
+    url("../fonts/HK Grotesk/HKGrotesk-Regular.woff") format("woff");
+}
+
+@font-face {
+    font-family: "HK Grotesk";
+    font-weight: 500;
+    src: url("../fonts/HK Grotesk/HKGrotesk-Medium.eot");
+    src: url("../fonts/HK Grotesk/HKGrotesk-Medium.woff2") format("woff2"),
+    url("../fonts/HK Grotesk/HKGrotesk-Medium.woff") format("woff");
+}
+
+@font-face {
+    font-family: "HK Grotesk";
+    font-weight: 600;
+    src: url("../fonts/HK Grotesk/HKGrotesk-SemiBold.eot");
+    src: url("../fonts/HK Grotesk/HKGrotesk-SemiBold.woff2") format("woff2"),
+    url("../fonts/HK Grotesk/HKGrotesk-SemiBold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "HK Grotesk";
+    font-weight: 700;
+    src: url("../fonts/HK Grotesk/HKGrotesk-Bold.eot");
+    src: url("../fonts/HK Grotesk/HKGrotesk-Bold.woff2") format("woff2"),
+    url("../fonts/HK Grotesk/HKGrotesk-Bold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "HK Grotesk";
+    font-weight: 700;
+    src: url("../fonts/HK Grotesk/HKGrotesk-ExtraBold.eot");
+    src: url("../fonts/HK Grotesk/HKGrotesk-ExtraBold.woff2") format("woff2"),
+    url("../fonts/HK Grotesk/HKGrotesk-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+    font-family: "HK Grotesk";
+    font-weight: 900;
+    src: url("../fonts/HK Grotesk/HKGrotesk-Black.eot");
+    src: url("../fonts/HK Grotesk/HKGrotesk-Black.woff2") format("woff2"),
+    url("../fonts/HK Grotesk/HKGrotesk-Black.woff") format("woff");
+}
